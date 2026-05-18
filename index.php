@@ -77,14 +77,3 @@ echo "Quotient: " . ($num1 / $num2);
 
 ?>
 
-<!-- 
-GUIDE QUESTIONS & EXPLANATIONS:
-
-Act1-Guide Questions:
-- The symbol used to end a PHP statement is semicolon ( ; )
-- echo is faster than print
-
-Act4-Explanation:
-- Variable names should not start with numbers.
-- PHP variables are case-sensitive.
--->
